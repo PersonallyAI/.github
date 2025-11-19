@@ -1,3 +1,7 @@
+[![Feature](https://img.shields.io/badge/PR-Feature-blue?style=for-the-badge)](?expand=1&template=feat_template.md) &nbsp; [![Bug Fix](https://img.shields.io/badge/PR-Bug_Fix-red?style=for-the-badge)](?expand=1&template=fix_template.md) &nbsp; [![Refactor](https://img.shields.io/badge/PR-Refactor-orange?style=for-the-badge)](?expand=1&template=refactor_template.md) &nbsp; [![Docs](https://img.shields.io/badge/PR-Docs-green?style=for-the-badge)](?expand=1&template=docs_template.md)
+[![Test](https://img.shields.io/badge/PR-Test-yellow?style=for-the-badge)](?expand=1&template=test_template.md) &nbsp; [![Chore](https://img.shields.io/badge/PR-Chore-purple?style=for-the-badge)](?expand=1&template=chore_template.md) &nbsp; [![CI](https://img.shields.io/badge/PR-CI-blueviolet?style=for-the-badge)](?expand=1&template=ci_template.md)
+<br>
+
 ## 📝 Description
 ## 🔗 Related Issue
 ## 🏷️ Type of Change
